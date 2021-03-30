@@ -10,3 +10,15 @@
 }
 
 /* Include any custom CSS styling here! */
+.body {
+  display: flex;
+  flex-direction: column;
+}
+.interaction{
+  position: absolute;
+}
+
+#range-slider{
+  padding-left: 50px;
+  margin-left: 100px;
+}
